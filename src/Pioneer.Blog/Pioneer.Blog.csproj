@@ -6,6 +6,9 @@
     <TypeScriptToolsVersion>2.5</TypeScriptToolsVersion>
   </PropertyGroup>
   <PropertyGroup>
+    <RunOctoPack>true</RunOctoPack>
+  </PropertyGroup>
+  <PropertyGroup>
     <TypeScriptCompileBlocked>True</TypeScriptCompileBlocked>
     <TypeScriptCompileOnSaveEnabled>False</TypeScriptCompileOnSaveEnabled>
   </PropertyGroup>
