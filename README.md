@@ -26,3 +26,4 @@ Full-featured admin portal.
 - If there is interest, I am willing to entertain the idea of abstracting the vast majority of code away from the Pioneer Blog domain so that it can't be reused without to much refactoring.  
 
 ## [CHANGELOG](CHANGELOG.md)
+hello
