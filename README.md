@@ -1,4 +1,5 @@
 # Pioneer Blog
+Thanks to pioneer blod (Original Code Owned by pioneer blog)
 
 Active code based used for [Pioneer Code](https://pioneercode.com).
 
@@ -8,12 +9,9 @@ Current stack...
 - Angular 5.x
 
 Current deployment...
-- SQL Database hosted at [WinHost](http://www.winhost.com/a/chadr)
-- Site hosted at [DigitalOcean](http://www.digitalocean.com/?refcode=d95b905a1279)
-  - Under Ubuntu and faced by NGINX
- 
+  
 Wiki
- - [How do I set Pioneer Blog up?](https://github.com/PioneerCode/pioneer-blog/wiki/Setup)
+ - [How do I set Pioneer Blog up?](https://github.com/PioneerCode/pioneer-blog.git)
 
 ## Admin 
 Full-featured admin portal.
